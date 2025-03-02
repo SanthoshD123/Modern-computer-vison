@@ -104,7 +104,9 @@ Feel free to contribute to this repository by adding new notebooks, improving ex
 
 ## License
 
-[To be added]
+This repository contains notebooks and code examples created while learning from educational content. 
+
+This collection is shared for educational purposes only. Please use these materials responsibly and give credit to the original instructors/content creators if you reference or build upon this work.
 
 ## Acknowledgments
 
